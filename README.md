@@ -10,17 +10,6 @@ The purpose of this assignment was to create a **personal portfolio website** to
 The portfolio is a **multi-page React application**, designed to highlight my earlier projects in a clean, accessible, and visually appealing way.
 
 ---
-## 🧩 Featured Projects - 
- - CSS frameworks
- - Javascript frameworks
- - Semester project 2
-
-Each project is displayed on the homepage with a preview card containing:
-- 🏷️ Project title  
-- ✏️ Short description  
-- 🔗 “Read More” link (or a clickable project card) that redirects to a detailed article page  
-
----
 
 ## 🧩 Featured Projects
 
