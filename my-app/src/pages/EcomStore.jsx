@@ -6,7 +6,8 @@ export default function EcomStore() {
     <ArticlePageItem
       title="Ecom Store"
       image="/images/ecomstorefront.png"
-      mainContent="This website was created using HTML and Bootstrap for the fictional company Auctionarious. Users can view and bid on auction items."
+      mainContent="This website was created for my javascript frameworks assignment. This project was created using React and bootstrap. 
+      The aim of this assignment was to create an e-commerce store, and collect data using Noroff API. The website was required to have a homepage, individual product page, cart page, checkout success page and contact page. Please look at the github readme for this page to read more about this project! "
       liveSite="https://ecommercekine.netlify.app/"
       github="https://github.com/kinseeen/ecom-store/blob/master/README.md"
     />
