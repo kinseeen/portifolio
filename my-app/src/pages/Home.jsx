@@ -21,7 +21,7 @@ export default function Home() {
     {
       id: 3,
       title: "CSS FRAMEWORKS",
-      image: "/images/css-frameworks.png",
+      image: "/images/loginPageCss.JPG",
       teaser: "Exploring the world of CSS frameworks — coming soon!",
       link: "/css-frameworks",
     },

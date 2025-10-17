@@ -26,7 +26,6 @@ export default function ProjectArticle({
         <div className="h-1 w-20 bg-blue-600 mx-auto mt-3 rounded-full"></div>
       </header>
 
-      {/* Hero Image */}
       {image && (
         <div className="w-full max-w-5xl mb-6">
           <img
@@ -36,14 +35,11 @@ export default function ProjectArticle({
           />
         </div>
       )}
-
-      {/* Main Content */}
       <main className="max-w-3xl w-full text-center">
         <p className="text-gray-700 text-base leading-relaxed mb-8">
           {mainContent}
         </p>
 
-        {/* Buttons */}
         <div className="flex flex-wrap justify-center gap-3 mb-8">
           {liveSite && (
             <a
